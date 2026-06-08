@@ -27,7 +27,7 @@ This work investigates whether behavioral and linguistic patterns extracted from
 ## Dataset
 
 **Source:** Reddit Mental Health Dataset (RMHD)  
-**Reference:** N. Ghoshal, "Reddit Mental Health Data," Kaggle, 2022. [[Link]](https://www.kaggle.com/datasets/neelghoshal/reddit-mental-health-data)
+**Reference:** Saima R, "Reddit Mental Health Dataset (RMHD)," Kaggle, 2019-2022. [[Link]](https://www.kaggle.com/datasets/entenam/reddit-mental-health-dataset)
 
 | Property | Value |
 |---|---|
