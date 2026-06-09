@@ -215,5 +215,5 @@ Best Paper Award.
 3. M. De Choudhury et al., "Social Media as a Measurement Tool of Depression in Populations," ACM Web Science, 2013.
 4. M. A. Mansoor and K. Ansari, "Early Detection of Mental Health Crises through AI-Powered Social Media Analysis," J. Personalized Medicine, 2024.
 5. A. Bokolo and G. Liu, "Comparative Study of ML and Transformer Models for Depression Detection," IEEE Access, 2024.
-6. N. Ghoshal, "Reddit Mental Health Data," Kaggle Dataset, 2022.
+6. Saima R, "Reddit Mental Health Dataset (RMHD)," Kaggle, 2019-2022.
 7. M. Al-Mosaiwi and T. Johnstone, "In an Absolute State: Elevated Use of Absolutist Words is a Marker Specific to Anxiety, Depression, and Suicidal Ideation," Clinical Psychological Science, 2018.
